@@ -1,5 +1,5 @@
 def sumDiff(x, y):
 
-    return 100 + 31 
+    return 10 + 5 
 
-sumDiff(100, 31)
+sumDiff(10, 5) == 10
