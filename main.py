@@ -1,5 +1,5 @@
-def sumDiff(x, y):
+def function(x, y):
 
-    return 10 + 5 
+    return (10, 5)
 
-sumDiff(10, 5) == 10
+print(10 + 5)
