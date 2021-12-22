@@ -1,5 +1,5 @@
 def sumDiff(x, y):
 
-    return (10, 5, 5)
+    return (x + y) - (x - y)
 
-(10 + 5 - 5)
+print(sumDiff(123,99))
